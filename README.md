@@ -1,5 +1,5 @@
 # README
-# Olá! Eu sou [Nathielly] 👋
+# Olá! Eu sou Nathielly 👋
 
 
 
