@@ -23,4 +23,4 @@ E-mail: nathiellydamasceno371@gmail.com
 
 LinkedIn: www.linkedin.com/in/nathiellydamasceno
 
-Dev.to:https://dev.to/nathielly_damasceno
+Dev.to: https://dev.to/nathielly_damasceno
