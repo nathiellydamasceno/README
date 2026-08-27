@@ -18,6 +18,9 @@ Análise e resolução de problemas
 Processos e ferramentas voltados à área de tecnologia
 
 📫 Como me encontrar
+
 E-mail: nathiellydamasceno371@gmail.com
+
 LinkedIn: www.linkedin.com/in/nathiellydamasceno
+
 Dev.to: @nathielly_damasceno
