@@ -1,16 +1,23 @@
-# README
-# Olá! Eu sou Nathielly 👋
+README
 
+Olá! Eu sou Nathielly 👋
 
+👨‍💻 Quem sou eu
 
-### 👨‍💻 Quem sou eu
+Sou Analista de Sistemas Júnior e estudante de Gestão de TI na Faculdade Cruzeiro do Sul.
 
-Sou uma Analista de Sistemas que trabalha com a ferramenta Jira, atuando na resolução de chamados, criação e gerenciamento de projetos, além de outras atividades voltadas à gestão de TI. Sou apaixonada por criar soluções inovadoras, otimizar processos e resolver problemas complexos. Atualmente, estou focada em aprimorar minhas habilidades em gestão de TI e estou sempre em busca de novos desafios e oportunidades para aprender e evoluir profissionalmente.
+Atuo na área de tecnologia com foco em resolução de chamados, análise de problemas e suporte às demandas de sistemas, utilizando ferramentas como o Jira para acompanhamento e gerenciamento das atividades.
 
-### 📫 Como me encontrar
+Estou constantemente buscando aprimorar meus conhecimentos em Gestão de TI, sistemas e tecnologia, além de desenvolver novas habilidades que contribuam para minha evolução profissional.
+Gosto de aprender, resolver problemas e transformar desafios em oportunidades de crescimento. 🚀
 
+📚 Atualmente aprendendo
+Jira
+Gestão de TI
+Análise e resolução de problemas
+Processos e ferramentas voltados à área de tecnologia
+
+📫 Como me encontrar
 E-mail: nathiellydamasceno371@gmail.com
-
 LinkedIn: www.linkedin.com/in/nathiellydamasceno
-
 Dev.to: @nathielly_damasceno
